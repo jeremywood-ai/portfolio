@@ -1,22 +1,21 @@
-# al-folio
+# Jeremy's Project Portfolio
 
-[![build status](https://travis-ci.org/alshedivat/al-folio.svg?branch=master)](https://travis-ci.org/alshedivat/al-folio)
-[![demo](https://img.shields.io/badge/theme-demo-brightgreen.svg)](https://alshedivat.github.io/al-folio/)
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/alshedivat/al-folio/blob/master/LICENSE)
-[![gitter](https://badges.gitter.im/alshedivat/al-folio.svg)](https://gitter.im/alshedivat/al-folio?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+<!-- [![build status](https://travis-ci.org/alshedivat/al-folio.svg?branch=master)](https://travis-ci.org/alshedivat/al-folio)
+[![demo](https://img.shields.io/badge/theme-demo-brightgreen.svg)](https://alshedivat.github.io/al-folio/) -->
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/jeremywood-ai/portfolio/blob/master/LICENSE)
+[![gitter](https://badges.gitter.im/jeremywood-ai/portfolio.svg)](https://github.com/jeremywood-ai/portfolio?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-A simple and clean [Jekyll](https://jekyllrb.com/) theme for academics.
+Portfolio to showcase various methods and ideas in machine learning and projects. More discussion found on my [blog](https://jeremywood.ai).
 
-[![Screenshot](assets/img/full-screenshot.png)](https://alshedivat.github.io/al-folio/)
+Originally, **my portfolio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](http://liabogoev.com) and under the MIT license).
 
-Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](http://liabogoev.com) and under the MIT license).
-Since then, it got a full re-write of the styles and many additional cool features.
-The emphasis is on whitespace, transparency, and academic usage: [theme demo](https://alshedivat.github.io/al-folio/).
+Since then, a full style re-write and additional features.
+This version looks to emphasize whitespace, transparency, and academic usage: [theme demo](https://alshedivat.github.io/al-folio/).
+<!-- Check out creating a theme demo -->
 
 ## Getting started
+ The first section of the portfolio hosts the first data preprocssing templates that will set up the rest of the more complex models, found in [portfolio 1](/_projects/1-Project.md).
 
-For more about how to use Jekyll, check out [this tutorial](https://www.taniarascia.com/make-a-static-website-with-jekyll/).
-Why Jekyll? Read this [blog post](https://karpathy.github.io/2014/07/01/switching-to-jekyll/)!
 
 ### Installation
 
