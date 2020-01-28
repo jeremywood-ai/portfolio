@@ -1,55 +1,40 @@
 ---
 layout: page
-title: Project 4
-description: another without an image
-img:
+title: Machine Learning Regression Models
+description: ""
+img: /assets/img/4-molecule.jpg
+# redirect:
 ---
+### Machine Learning Regression Models
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+[Examples](https://github.com/jeremywood-ai/ML_Regression/tree/master/Regression-Models) of Machine Learning Regression Models Built in **Python** and **R** from academic projects to explore ML and its applications.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+### Meet the Models
 
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+| Template (Direct Link)   |  Note      | Language |  
+|--------------------------|:----------:|:--------:|
+| Simple Linear | Statistical Model |[Python](https://github.com/jeremywood-ai/ML_Regression/blob/master/Regression-Models/Simple-Linear-Regression/simple_linear_regression.py) / [R](https://github.com/jeremywood-ai/ML_Regression/blob/master/Regression-Models/Simple-Linear-Regression/simple_linear_regression.R)|
+| Mutiple Linear | Mulitple Variable | [Python](https://github.com/jeremywood-ai/ML_Regression/blob/master/Regression-Models/Multiple-Linear-Regression/multiple_linear_regression.py) / [R](https://github.com/jeremywood-ai/ML_Regression/blob/master/Regression-Models/Multiple-Linear-Regression/multiple_linear_regression.R)          |
+| Polynomial | Relationship: Independent *x* vs. dependent *y* | Python |
+| Support Vector Machine (SVM)| Features Hyperplane | [Python](https://github.com/jeremywood-ai/ML_Regression/blob/master/Regression-Models/Support-Vector-Regression/svr.py) / [R](https://github.com/jeremywood-ai/ML_Regression/blob/master/Regression-Models/Support-Vector-Regression/svr.R) |
+| Decision Tree | Data Mining | [Python](https://github.com/jeremywood-ai/ML_Regression/blob/master/Regression-Models/Decision-Tree-Regression/Decision_tree.py) / [R](https://github.com/jeremywood-ai/ML_Regression/blob/master/Regression-Models/Decision-Tree-Regression/Decision_tree_regression.R) |
+| Random Forest | Ensemble Learning | [Python](https://github.com/jeremywood-ai/ML_Regression/blob/master/Regression-Models/Random-Forest-Regression/random_forest_regression.py) / [R](https://github.com/jeremywood-ai/ML_Regression/blob/master/Regression-Models/Random-Forest-Regression/random_forest_regression.R) |
 
+<br/>
 
-<div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/2.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    This image can also have a caption. It's like magic.
-</div>
+More about the templates [here](https://github.com/jeremywood-ai/MLTemplates/blob/master/dataprocessing/readme_data.md)
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+- Simple Linear  : Statistical model
+- Muplie Linear  : Multiple linear regression (MLR) or simply multiple regression: statistical technique that uses several explanatory variables to predict the outcome. 
+- Polynomial  : Relationship between the independent variable x and the dependent variable y, modelled as an *nth* degree of x.
+- Support Vector  (SVM): More often developed into a *machine* (SVM), maintains all the main features that characterize the algorithm (maximal margin).
+- Decision Tree : *Data Mining* : Builds regression or classification models in the form of a tree structure. It breaks down a dataset into smaller subsets while at the same time an associated decision tree is incrementally developed. 
+- Random Forest : Supervised Learning algorithm which uses ensemble learning method for classification and regression
 
+Each folder contains a sample data file, mostly a single comma-separated value spreadsheet, and its *Python* and *R* machine learning versions.
 
-<div class="img_row">
-    <img class="col two left" src="{{ site.baseurl }}/assets/img/6.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+---
+This is an academic course project with additional changes to use my customized *Anaconda* environment, as part of [SuperDataScience](https://www.superdatascience.com/) instruction found on [Udemy](https://udemy.com) 2019
 
-
-<br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
-
-<div class="img_row">
-    <img class="col two left" src="/img/6.jpg"/>
-    <img class="col one left" src="/img/11.jpg"/>
-</div>
+[Girl]: /assets/img/girl_w_glasses_keypoints.png
+[Group]: /assets/img/groupphoto_Face_Extraction.png

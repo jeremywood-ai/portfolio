@@ -20,15 +20,8 @@ The first area icon hosts data preprocssing templates that will set up the rest 
 ## Features in Portfolio
 
 #### Code Highlighting
-This theme implements Jekyll's built in code syntax highlighting with Pygments.
-Just use the liquid tags `{% highlight python %}` and `{% endhighlight %}` to delineate your code:
 
-<!-- 
-<p align="center">
-  <a href="https://alshedivat.github.io/al-folio/blog/2015/code/">
-    <img src="assets/img/code-screenshot.png" width="75%">
-  </a>
-</p> -->
+This theme implements Jekyll's built in code syntax highlighting with Pygments.
 
 ## Contributing
 
