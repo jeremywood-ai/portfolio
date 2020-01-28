@@ -1,56 +1,53 @@
 ---
 layout: page
-title: Project 3
-description: a project that redirects to another website
-img:
-redirect: https://unsplash.com
+title: MTCNN
+description: Deep Learning for Facial Detection / Extraction
+img: /assets/img/girl_w_glasses_keypoints.png
+# redirect:
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+Face detection and face extraction project with MTCNN, Keras, and TensorFlow 2.0, in a Python 3+ environment.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+A *mutli-tasked cascaded convolutional neural network* shows the ability and speed to detect faces in a variety of images. Additionally, the project's [verison 2](https://github.com/jeremywood-ai/MTCNN/blob/master/MTCNN_Version2_Facial_Extraction.py) allows for image extraction.
+## MODEL
+----
+"By default the MTCNN bundles a face detection weights model.
 
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+"The model is adapted from the Facenet's MTCNN implementation, merged in a single file located inside the folder 'data' relative to the module's path. It can be overriden by injecting it into the MTCNN() constructor during instantiation.
+
+"The model must be numpy-based containing the 3 main keys "pnet", "rnet" and "onet", having each of them the weights of each of the layers of the network," (Brownlee, 2019)
+
+mtcnn_weights.npy is the weight file from the library that is trained for the three layers.
+
+For more reference about the network definition, take a close look at the paper from Zhang et al. (2016).
 
 
-<div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/2.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/3.jpg" alt="" title="example image"/>
-</div>
+![Girl from Version 1][Girl]
 <div class="col three caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    <h5>Girl marked with keypoints and boxed from MTCNN Facial Detection.</h5>
 </div>
-<div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
-</div>
+<br/>
+
+This project is based on Iván de Paz Centeno's MTCNN library [https://github.com/ipazc/mtcnn](https://github.com/ipazc/mtcnn).
+
+![Group][Group]{:width="600px"}
+
 <div class="col three caption">
-    This image can also have a caption. It's like magic.
+    <h5>Group compilation from MTCNN facial extraction version.</h5>
 </div>
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+### Files
+[MTCNN_facial_recognition.py 'MTCNN Version 1 - Facial Recognition](https://github.com/jeremywood-ai/MTCNN/blob/master/MTCNN_facial_recognition.py)
 
+[MTCNN_Version2_Facial_Extraction.py 'MTCNN Version 2 - Face Extraction](https://github.com/jeremywood-ai/MTCNN/blob/master/MTCNN_Version2_Facial_Extraction.py)
 
-<div class="img_row">
-    <img class="col two left" src="{{ site.baseurl }}/assets/img/6.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+[MTCNN Python environment.txt 'Anaconda Full Package List'](https://github.com/jeremywood-ai/MTCNN/blob/master/MTCNN_environment.txt)
 
+### Reference
+----
+1. Brownlee, Jason. (2019). How to Perform Face Detection with Deep Learning. https://machinelearningmastery.com/how-to-perform-face-detection-with-classical-and-deep-learning-methods-in-python-with-keras/ Machine Learning Mastery.
 
-<br/><br/>
+1. Zhang, K., Zhang, Z., Li, Z., and Qiao, Y. (2016). Joint face detection and alignment using multitask cascaded convolutional networks. IEEE Signal Processing Letters, 23(10):1499–1503.
 
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
-
-<div class="img_row">
-    <img class="col two left" src="/img/6.jpg"/>
-    <img class="col one left" src="/img/11.jpg"/>
-</div>
+[Girl]: /assets/img/girl_w_glasses_keypoints.png
+[Group]: /assets/img/groupphoto_Face_Extraction.png
