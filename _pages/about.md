@@ -9,6 +9,7 @@ profile:
   image: Bio.jpg
   address: >
     <p><a href="https://jeremywood.ai">jeremywood.ai</a></p>
+    <p><a href="/assets/pdf/CV.pdf" target="_blank">Link to resume</a></p>
 
 news: true
 social: true

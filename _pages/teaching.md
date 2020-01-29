@@ -41,4 +41,4 @@ Helped teach through real-world experience and collaborated with my peers. Throu
 
 [UCSD_Logo]: /assets/img/UCSD_Extension.jpg
 [hacker101]: /assets/img/hacker101_960_720.jpg
-[CV]: /assets/pdf/example_pdf.pdf
+[CV]: /assets/pdf/CV.pdf
