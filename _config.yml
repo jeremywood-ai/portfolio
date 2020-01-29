@@ -92,7 +92,10 @@ markdown: kramdown
 highlighter: pygments
 
 # Includes & excludes
-include: ['_pages']
+include: 
+    - .htaccess
+    - _pages
+    - Gemfile
 exclude: [vendor]
 
 # Plug-ins
@@ -102,6 +105,8 @@ plugins:
     - jekyll/scholar
     - jemoji
     - jekyll-feed
+    - jekyll-sitemap
+    - jekyll-gist
 
 # Jekyll-Scholar
 scholar:
