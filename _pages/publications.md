@@ -8,7 +8,7 @@ description: Publications by categories in reversed chronological order. Generat
 {{ page.title }}
 ================
 
-{% bibliography %}
+{{ content }}
 
 
 <!-- {% for y in page.years %}
