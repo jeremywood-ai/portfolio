@@ -10,5 +10,5 @@ years: [2017, 2014]
 
 {% for y in page.years %}
   <h3 class="year">{{y}}</h3>
-  {% bibliography --file papers %}
+  {% bibliography %}
 {% endfor %}
