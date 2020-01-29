@@ -8,9 +8,7 @@ years: [2017, 2014]
 {{ page.title }}
 ================
 
-{% for y in page.years %}
-  {% bibliography %}
-{% endfor %}
+{% bibliography %}
 
 <!-- {% for y in page.years %}
   <h3 class="year">{{y}}</h3>
