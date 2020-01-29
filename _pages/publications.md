@@ -9,7 +9,8 @@ years: [2017, 2014]
 {{ page.title }}
 ================
 
-{% bibliography %}
+{% site.bibliography %}
+
 
 <!-- {% for y in page.years %}
   <h3 class="year">{{y}}</h3>
