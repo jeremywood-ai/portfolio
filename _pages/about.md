@@ -1,14 +1,14 @@
 ---
 layout: about
 permalink: /about/
-title: <strong>Jeremy Wood</strong>
+title: Bio
 description: ""
 
 profile:
   align: left
   image: Bio.jpg
   address: >
-    <p><a href="https://jeremywood.ai">jeremywood.ai</a></p>
+    <p><strong><a href="https://jeremywood.ai">jeremywood.ai</a><strong></p>
     <p><a href="/assets/pdf/CV.pdf" target="_blank">Link to resume</a></p>
 
 news: true

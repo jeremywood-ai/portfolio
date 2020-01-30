@@ -1,7 +1,9 @@
 <!-- [![build status](https://travis-ci.org/alshedivat/al-folio.svg?branch=master)](https://travis-ci.org/alshedivat/al-folio)
 [![demo](https://img.shields.io/badge/theme-demo-brightgreen.svg)](https://alshedivat.github.io/al-folio/) -->
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/jeremywood-ai/portfolio/blob/master/LICENSE)
-<!-- [![gitter](https://badges.gitter.im/jeremywood-ai/portfolio.svg)](https://github.com/jeremywood-ai/portfolio?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) -->
+[![OpenCV version shield.io](https://img.shields.io/opencv/v/ansicolortags.svg)]
 
 Portfolio to showcase various methods and ideas in machine learning and projects. More discussion found on my [blog](https://jeremywood.ai).
 
