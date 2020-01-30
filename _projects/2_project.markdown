@@ -18,5 +18,5 @@ Computer Vision *Proof of Detection* projects that sets up how to use OpenCV’s
 
 ![Capture Example][OpenCV]
 
-[OpenCV]: /assets/img/openCV_Capture1.png
-[Logo]: /assets/img/OpenCV-with-Python-658x174.jpg
+[OpenCV]: portfolio/assets/img/openCV_Capture1.png
+[Logo]: portfolio/assets/img/OpenCV-with-Python-658x174.jpg

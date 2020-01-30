@@ -49,5 +49,5 @@ This project is based on Iván de Paz Centeno's MTCNN library [https://github.co
 
 1. Zhang, K., Zhang, Z., Li, Z., and Qiao, Y. (2016). Joint face detection and alignment using multitask cascaded convolutional networks. IEEE Signal Processing Letters, 23(10):1499–1503.
 
-[Girl]: /assets/img/girl_w_glasses_keypoints.png
-[Group]: /assets/img/groupphoto_Face_Extraction.png
+[Girl]: portfolio/assets/img/girl_w_glasses_keypoints.png
+[Group]: portfolio/assets/img/groupphoto_Face_Extraction.png

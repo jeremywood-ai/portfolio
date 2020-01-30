@@ -20,4 +20,4 @@ More about the chatbot [here](https://github.com/jeremywood-ai/Chatbot_DNLP/blob
 ---
 This is an academic course project with additional changes for use in my customized *Anaconda* environment, as part of [SuperDataScience](https://www.superdatascience.com/) instruction found on [Udemy](https://udemy.com) 2019
 
-[chatbot]: {{site.url}}/assets/img/chatbot.jpg
+[chatbot]: portfolio/assets/img/chatbot.jpg

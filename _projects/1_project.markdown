@@ -17,7 +17,7 @@ Every data project requires clean-up and preparation for the models achieve the 
 
 Remember, *Garbage In - Garbage Out*
 
-![Garbage In - Garbage Out](/assets/img/GIGO.png){:height="400px" width="600px"}
+![Garbage In - Garbage Out](/portfolio/assets/img/GIGO.png){:height="400px" width="600px"}
 
 <div class="col three caption">
 	Machine Learning Process Diagram <em>(Source:) TowardDataScience.com</em>)
