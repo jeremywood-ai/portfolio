@@ -13,7 +13,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
 
 url: https://jeremywood-ai.github.io/portfolio # the base hostname & protocol for your site
-baseurl: /portfolio # the subpath of your site, e.g. /blog/
+baseurl: / # the subpath of your site, e.g. /blog/
 last_updated: Jan. 27, 2020 # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
