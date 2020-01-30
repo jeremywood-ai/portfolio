@@ -5,7 +5,6 @@
 
 [![MadewithR](https://img.shields.io/badge/R-3.0.1%2B-blue)]()
 
-
 [![Python](https://img.shields.io/badge/python-3.6%2B-brightgreen)]()
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.1.2-green)]()
 [![TensorFlow 2.0](https://aleen42.github.io/badges/src/tensorflow.svg)]()
