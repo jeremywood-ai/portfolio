@@ -18,19 +18,14 @@ Originally, my portfolio was based on the [\*folio theme](https://github.com/bog
 
 The first area icon hosts data preprocssing templates that will set up the rest of the more complex models found in [Portfolio 1](/_projects/1-Project.md).
 
-### Features in Portfolio
-
 ### Code Highlighting
 
 This theme implements Jekyll's built in code syntax highlighting with Rouge.
 
 ### Contributing
 
-Feel free to contribute new features and theme improvements by sending a **pull request.**
-
-Style improvements and bug fixes are especially welcome.
+Feel free to contribute new features and theme improvements by sending a **pull request.** Style improvement suggestions and bug fixes are especially welcome.
 
 ### License
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/jeremywood-ai/portfolio/blob/master/LICENSE)
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
