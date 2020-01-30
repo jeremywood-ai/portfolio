@@ -12,7 +12,7 @@ footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/bogoli/-folio">Lia Bogoev's -folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
 
-url: https://jeremywood-ai.github.io/portfolio # the base hostname & protocol for your site
+url: # the base hostname & protocol for your site
 baseurl: / # the subpath of your site, e.g. /blog/
 last_updated: Jan. 27, 2020 # leave blank if you don't want to display last updated
 
