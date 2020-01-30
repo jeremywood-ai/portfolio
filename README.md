@@ -9,6 +9,7 @@
 [![Python](https://img.shields.io/badge/python-3.6%2B-brightgreen)]()
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.1.2-green)]()
 [![TensorFlow 2.0](https://aleen42.github.io/badges/src/tensorflow.svg)]()
+[![Keras](https://img.shields.io/badge/keras-2.3.1-green)]()
 [![MTCNN](https://img.shields.io/badge/MTCNN-0.1.0-green)]()
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/jeremywood-ai/portfolio/blob/master/LICENSE)
