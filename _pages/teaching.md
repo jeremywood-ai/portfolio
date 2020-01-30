@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: Cyber Security
-img: hacker101_960_720.jpg
+img: /assets/img/hacker101_960_720.jpg
 ---
 
 [Link to CV][CV]
@@ -39,6 +39,6 @@ Helped teach through real-world experience and collaborated with my peers. Throu
 
 ![hacker101][hacker101]
 
-[UCSD_Logo]: UCSD_Extension.jpg
-[hacker101]: hacker101_960_720.jpg
-[CV]: /assets/pdf/CV.pdf
+[UCSD_Logo]: {{ '/assets/img/UCSD_Extension.jpg | relative_url }}
+[hacker101]: {{ '/assets/img/hacker101_960_720.jpg | relative_url }}
+[CV]: {{'/assets/pdf/CV.pdf | relative.url }}
