@@ -4,7 +4,10 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/jeremywood-ai/portfolio/blob/master/LICENSE)
-[![OpenCV](https://img.shields.io/badge/OpenCV-4.1.2-green)]
+[![Python]](https://img.shields.io/badge/python-3.6%2B-brightgreen)
+[![OpenCV]](https://img.shields.io/badge/OpenCV-4.1.2-green)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0-green)]
+[![MTCNN](https://badge.fury.io/py/mtcnn)]
 
 Portfolio to showcase various methods and ideas in machine learning and projects. More discussion found on my [blog](https://jeremywood.ai).
 
