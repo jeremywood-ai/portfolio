@@ -8,8 +8,8 @@ profile:
   align: left
   image: Bio.jpg
   address: >
-    <p><strong><a href="https://jeremywood.ai">jeremywood.ai</a><strong></p>
-    <p><a href="/assets/pdf/CV.pdf" target="_blank">Link to resume</a></p>
+    <p><a href="https://jeremywood.ai"><img src="https://img.shields.io/badge/website-jeremywood.ai-blue"></a></p>
+    <p><a href="/assets/pdf/CV.pdf" target="_blank"><img src="https://img.shields.io/badge/Link-Resume-blue"></a></p>
 
 news: true
 social: true
