@@ -20,7 +20,7 @@ A *mutli-tasked cascaded convolutional neural network* shows the ability and spe
 
 For more reference about the network definition, take a close look at the paper from Zhang et al. (2016).
 
-![Girl_from_Version_1](/assets/img/girl_w_glasses_keypoints.png)
+![Girl_from_Version_1](/portfolio/assets/img/girl_w_glasses_keypoints.png)
 <div class="col three caption">
     <h5>Girl marked with keypoints and boxed from MTCNN Facial Detection.</h5>
 </div>
@@ -28,7 +28,7 @@ For more reference about the network definition, take a close look at the paper 
 
 This project is based on Iván de Paz Centeno's MTCNN library [https://github.com/ipazc/mtcnn](https://github.com/ipazc/mtcnn).
 
-![Group](/assets/img/groupphoto_Face_Extraction.png){:width="600px"}
+![Group](/portfolio/assets/img/groupphoto_Face_Extraction.png){:width="600px"}
 
 <div class="col three caption">
     <h5>Group compilation from MTCNN facial extraction version.</h5>

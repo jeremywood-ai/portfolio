@@ -5,7 +5,7 @@ description: Computer Vision with OpenCV
 img: /assets/img/opencv-logo-white.png
 ---
 
-![OpenCVLogo](portfolio/assets/img/OpenCV-with-Python-658x174.jpg)
+![OpenCVLogo](/portfolio/assets/img/OpenCV-with-Python-658x174.jpg)
 
 Computer Vision *Proof of Detection* projects that sets up how to use OpenCV’s library to create a webcam person-detection system, 
 [OpenCV Project GitHub Page](https://jeremywood-ai.github.io/OpenCV/ "Jeremy's OpenCV Page")
@@ -18,5 +18,5 @@ Computer Vision *Proof of Detection* projects that sets up how to use OpenCV’s
 
 ![CaptureExample][OpenCV]
 
-[OpenCV]: portfolio/assets/img/openCV_Capture1.png
+[OpenCV]: /portfolio/assets/img/openCV_Capture1.png
 [Logo]: portfolio/assets/img/OpenCV-with-Python-658x174.jpg
