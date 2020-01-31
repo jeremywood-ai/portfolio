@@ -1,15 +1,7 @@
 ---
 layout: about
 permalink: /about/
-<<<<<<< HEAD
-<<<<<<< HEAD
 title: Bio
-=======
-title: About
->>>>>>> master
-=======
-title: Bio
->>>>>>> 0609130ae61e3741b8ed81cd3aa1a63a130760bd
 description: ""
 
 profile:
