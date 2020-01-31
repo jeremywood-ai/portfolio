@@ -1,7 +1,11 @@
 ---
 layout: about
 permalink: /about/
+<<<<<<< HEAD
 title: Bio
+=======
+title: About
+>>>>>>> master
 description: ""
 
 profile:
