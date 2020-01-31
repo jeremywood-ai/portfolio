@@ -1,12 +1,16 @@
-[![Python](https://img.shields.io/badge/python-3.6%2B-brightgreen)]
-[![MadewithR](https://img.shields.io/badge/R-3.0.1%2B-blue)]
+![Python](https://img.shields.io/badge/python-3.6%2B-brightgreen)
+![MadewithR](https://img.shields.io/badge/R-3.0.1%2B-blue)
 
-[![OpenCV](https://img.shields.io/badge/OpenCV-4.1.2-green)]
-[![TensorFlow 2.0](https://aleen42.github.io/badges/src/tensorflow.svg)]
-[![Keras](https://img.shields.io/badge/keras-2.3.1-green)]
-[![MTCNN](https://img.shields.io/badge/MTCNN-0.1.0-green)]
+![OpenCV](https://img.shields.io/badge/OpenCV-4.1.2-green)
+![TensorFlow 2.0](https://aleen42.github.io/badges/src/tensorflow.svg)
+![Keras](https://img.shields.io/badge/keras-2.3.1-green)
+![MTCNN](https://img.shields.io/badge/MTCNN-0.1.0-green)
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+## Portfolio
+
+This is a portfolio to showcase various methods and ideas in machine learning. They can be found [here](/projects/) More discussion found on my [blog](https://jeremywood.ai).
+
+Originally, my portfolio was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](http://liabogoev.com) and under the MIT license). Style re-writes and features added.
 
 ## Portfolio
 

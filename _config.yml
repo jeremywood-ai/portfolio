@@ -41,7 +41,7 @@ blogger_url: https://jeremywood.ai # your blogger URL
 contact_note: >
   Send me an email or visit my LinkedIn.
 
-# google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: UA-153428944-1 # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -98,7 +98,6 @@ include:
     - Gemfile
 exclude: [vendor]
 
-# Plug-ins
 plugins:
     - jekyll-email-protect
     - jekyll-paginate
