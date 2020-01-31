@@ -1,13 +1,3 @@
----
-profile:
-  align: left
-  image: Bio.jpg
-  address: >
-    <a href="https://jeremywood.ai"><img src="https://img.shields.io/badge/website-jeremywood.ai-blue"></a>
-    <a href="/portfolio/assets/pdf/CV.pdf" target="_blank"><img src="https://img.shields.io/badge/Link-Resume-blue"></a>
-
----
-
 [![Python](https://img.shields.io/badge/python-3.6%2B-brightgreen)]
 [![MadewithR](https://img.shields.io/badge/R-3.0.1%2B-blue)]
 
