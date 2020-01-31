@@ -6,7 +6,8 @@ description: Cyber Security
 img: /assets/img/hacker101_960_720.jpg
 ---
 
-![UCSD_Logo](portfolio/assets/img/UCSD_Extension.jpg)
+![UCSD_Logo](/portfolio/assets/img/UCSD_Extension.jpg)
+
 <a href="/portfolio/assets/pdf/CV.pdf" target="_blank"><img src="https://img.shields.io/badge/Link-Resume-blue"></a>
 
 **Cyber Security Bootcamp** @ *University of California - San Diego Extension* / *Trilogy Education Services* - 24-Week Course
