@@ -36,5 +36,5 @@ Each folder contains a sample data file, mostly a single comma-separated value s
 ---
 This is an academic course project with additional changes to use my customized *Anaconda* environment, as part of [SuperDataScience](https://www.superdatascience.com/) instruction found on [Udemy](https://udemy.com) 2019
 
-[Girl]: /assets/img/girl_w_glasses_keypoints.png
-[Group]: /assets/img/groupphoto_Face_Extraction.png
+[Girl]: portfolio/assets/img/girl_w_glasses_keypoints.png
+[Group]: portfolio/assets/img/groupphoto_Face_Extraction.png

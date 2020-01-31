@@ -6,9 +6,9 @@ description: Cyber Security
 img: /assets/img/hacker101_960_720.jpg
 ---
 
-[Link to CV][CV]
+![UCSD_Logo](/portfolio/assets/img/UCSD_Extension.jpg)
 
-![UCSD_Logo][UCSD_Logo]
+<a href="/portfolio/assets/pdf/CV.pdf" target="_blank"><img src="https://img.shields.io/badge/Link-Resume-blue"></a>
 
 **Cyber Security Bootcamp** @ *University of California - San Diego Extension* / *Trilogy Education Services* - 24-Week Course
 
@@ -37,8 +37,6 @@ Helped teach through real-world experience and collaborated with my peers. Throu
 | | Enterprise Security Strategy |
 | Test Prep | Security+ / CEH |
 
-![hacker101][hacker101]
-
-[UCSD_Logo]: /assets/img/UCSD_Extension.jpg
-[hacker101]: /assets/img/hacker101_960_720.jpg
-[CV]: /assets/pdf/CV.pdf
+<!-- [UCSD_Logo]: /assets/img/UCSD_Extension.jpg
+[hacker101]:/assets/img/hacker101_960_720.jpg
+[CV]:/assets/pdf/CV.pdf -->
