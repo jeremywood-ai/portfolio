@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /about/
-title: <strong>Jeremy Wood</strong>
+title: About
 description: ""
 
 profile:
