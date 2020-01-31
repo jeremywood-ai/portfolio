@@ -16,7 +16,7 @@ Computer Vision *Proof of Detection* projects that sets up how to use OpenCV’s
 - haarcascade_frontalface_default.xml : detect full face features
 - haarcascade_smile.xml : detect a smile on a person
 
-![CaptureExample][OpenCV]
-
+![CaptureExample](/portfolio/assets/img/openCV_Capture1.png)
+<!-- 
 [OpenCV]: /portfolio/assets/img/openCV_Capture1.png
-[Logo]: portfolio/assets/img/OpenCV-with-Python-658x174.jpg
+[Logo]: portfolio/assets/img/OpenCV-with-Python-658x174.jpg -->
