@@ -12,12 +12,6 @@ This is a portfolio to showcase various methods and ideas in machine learning. T
 
 Originally, my portfolio was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](http://liabogoev.com) and under the MIT license). Style re-writes and features added.
 
-## Portfolio
-
-This is a portfolio to showcase various methods and ideas in machine learning. They can be found [here](/projects/) More discussion found on my [blog](https://jeremywood.ai).
-
-Originally, my portfolio was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](http://liabogoev.com) and under the MIT license). Style re-writes and features added.
-
 ### Getting Started
 
 The first area icon hosts data preprocssing templates that will set up the rest of the more complex models found in [Portfolio 1](/_projects/1-Project.md).
