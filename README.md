@@ -5,6 +5,7 @@
 ![TensorFlow 2.0](https://aleen42.github.io/badges/src/tensorflow.svg)
 ![Keras](https://img.shields.io/badge/keras-2.3.1-green)
 ![MTCNN](https://img.shields.io/badge/MTCNN-0.1.0-green)
+![Sagemaker](https://img.shields.io/badge/Amazon-SageMaker-orange)
 
 ## Portfolio
 
