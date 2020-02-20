@@ -20,11 +20,11 @@ The first area icon hosts data preprocssing templates that will set up the rest 
 
 Portfolio to showcase various methods and ideas in machine learning and projects. More discussion found on my [blog](https://jeremywood.ai).
 
-## Features in Portfolio
+### Features in Portfolio
 
 Originally, **my portfolio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](http://liabogoev.com) and under the MIT license). Since then, a full style re-write and additional features.
 
-### Code Highlighting
+#### Code Highlighting
 
 This theme implements Jekyll's built in code syntax highlighting with Rouge.
 
