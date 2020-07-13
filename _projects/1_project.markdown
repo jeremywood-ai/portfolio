@@ -34,7 +34,7 @@ Remember, *Garbage In - Garbage Out*
 1. Feature Scaling
 
 | Template (Direct Link)   |  Language  |
-|--------------------------|:----------:|
+|:-------------------------:|:----------:|
 | [Basic Data Preprocessing](https://github.com/jeremywood-ai/MLTemplates/blob/master/dataprocessing/data_preprocessing_template.py) | Python     |
 | [Basic Data Preprocessing](https://github.com/jeremywood-ai/MLTemplates/blob/master/dataprocessing/data_preprocessing_template.R) | R          |
 | [Categorical Data](https://github.com/jeremywood-ai/MLTemplates/blob/master/dataprocessing/categorical_data.py) | Python |
